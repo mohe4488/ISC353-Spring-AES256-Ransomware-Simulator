@@ -134,16 +134,29 @@ Do not attempt to run this code if you have any doubts about your environment
 This simulator was developed as part of ISC 353: Information Security at Kuwait University, specifically for:
 
 Team: Abdelrahman Elshabrawi, Mohyaldeen Osman
+
 Phase: Milestone 2 — Core Build (Milestone 3 will develop YARA detection rules)
+
 Instructor: Pre-approved for controlled academic use only
+
+
+---
+
 By cloning this repository, you acknowledge that:
 
+
 ✅ You understand the risks
+
 ✅ You are running this in an isolated VM environment
+
 ✅ You have read and understood all warnings
+
 ✅ You assume full responsibility for any consequences
+
 ✅ You will not use this code for malicious purposes
+
 If you do not agree to these terms, please DO NOT CLONE THIS REPOSITORY.
+
 
 ---
 
