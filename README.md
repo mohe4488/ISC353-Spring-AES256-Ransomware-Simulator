@@ -6,6 +6,28 @@
 
 ---
 
+## 🚨 **CRITICAL SAFETY NOTICE**
+
+**⚠️ BEFORE CLONING OR RUNNING THIS CODE, READ SAFETY_NOTICE.md ⚠️**
+
+This repository contains **functional ransomware simulation code**. While it is designed to be completely safe when run in a proper isolated environment, **improper execution could result in data loss or system compromise**.
+
+**Do not clone this repository to:**
+- Your host machine
+- A production system
+- Any machine containing important data
+- Any networked system
+
+**Required setup:**
+- Isolated virtual machine (no network connectivity)
+- VM snapshot/backup before execution
+- Test data only in the sandbox directory
+- Read SAFETY_NOTICE.md completely before proceeding
+
+For detailed safety requirements, risk assessment, and usage guidelines, **consult SAFETY_NOTICE.md immediately**.
+
+---
+
 ## Team Members
 
 1- Abdelrahman Elshabrawi 
@@ -134,4 +156,4 @@ cryptography>=41.0.0
 
 ## License
 
-This project is submitted as academic coursework for **ISC 353 at Kuwait University**. It is not licensed for any use outside of this academic context. Redistribution or adaptation for non-educational purposes is not permitted.
+This project is submitted as academic coursework for **ISC 353 at Kuwait University**. It is not licensed for any use outside of this academic context. Redistribution or adaptation for non-educational purposes is prohibited.
