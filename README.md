@@ -153,7 +153,3 @@ cryptography>=41.0.0
 ```
 
 ---
-
-## License
-
-This project is submitted as academic coursework for **ISC 353 at Kuwait University**. It is not licensed for any use outside of this academic context. Redistribution or adaptation for non-educational purposes is prohibited.
